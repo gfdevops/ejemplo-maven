@@ -1,4 +1,4 @@
-# Getting StartedSSSS
+# Getting StartedSSSSAAAA
 
 ## Windows
 
